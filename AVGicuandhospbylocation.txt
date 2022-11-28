@@ -1,0 +1,34 @@
+﻿Finland,26,328
+Italy,1117,11944
+Malaysia,342,3306
+Iceland,1,20
+Switzerland,156,963
+Slovenia,75,378
+France,2266,17447
+Spain,1365,7404
+United States,11760,50879
+Australia,83,1167
+Canada,488,2847
+Latvia,81,598
+Luxembourg,11,59
+South Africa,843,6145
+Portugal,186,1254
+South Korea,460,2958
+Netherlands,330,1018
+Estonia,16,210
+Malta,4,33
+United Kingdom,900,10113
+Sweden,156,1029
+Serbia,101,2591
+Czechia,363,2218
+Austria,208,1273
+Israel,143,1004
+Bulgaria,275,3052
+Ireland,61,522
+Slovakia,157,1115
+Belgium,358,1901
+Romania,629,5743
+Bolivia,85,731
+Cyprus,15,105
+Japan,878,10538
+Denmark,32,360
